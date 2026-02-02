@@ -1,5 +1,6 @@
 # 💫 About Me:
-BCA student working with python focused on problem solving and data structures and algorithms <br>Fun Fact - I enjoy breaking a problem in tiny steps until it finally make sense 
+Python-focused developer with a strong interest in problem-solving.I enjoy building logic step by step and strengthening my understanding
+of data structures and algorithms through consistent practice.<br>Fun Fact - I enjoy breaking a problem in tiny steps until it finally make sense 
 
 
 ## 🌐 Socials:
